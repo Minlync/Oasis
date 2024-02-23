@@ -1,5 +1,5 @@
 import React from 'react';
-import Comimg from '../assets/companyimg.png';
+import companyimg from '../assets/companyimg.png';
 import Accordion from '../components/Accordion';
 import { Typography } from '@mui/material';
 
@@ -9,7 +9,7 @@ const Company = () => {
       
       <div className='w-full bg-white py-10 px-4'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-        <img className='w-[500px] mx-auto my-4' src={Comimg} alt='/' />
+        <img className='w-[500px] mx-auto my-4' src={companyimg} alt='/' />
         <div className='flex flex-col justify-center'>
           <p className='text-[#00df9a] font-bold '>TRANSFORMING TOMORROW</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'> Redefining Tech Data Solutions</h1>
