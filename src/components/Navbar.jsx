@@ -21,9 +21,7 @@ const Navbar = () => {
       </h1>
       <ul className='hidden md:flex'>
         <li className='p-4'><Link to="/">Home</Link></li>
-        <li className='p-4'><Link to="/company">Company</Link></li>
-        <li className='p-4'><Link to="/resources">Resources</Link></li>
-        <li className='p-4'><Link to="/about">About</Link></li>
+        <li className='p-4'><Link to="/company">About</Link></li>
         <li className='p-4'><Link to="/contact">Contact</Link></li>
       </ul>
       <div onClick={handleNav} className='block md:hidden'>
@@ -35,9 +33,7 @@ const Navbar = () => {
         </h1>
         {/* <button className='py-2' onClick={onChangeColor()}></button> */}
         <li className='p-4 border-b border-gray-600'><Link to="/">Home</Link></li>
-        <li className='p-4 border-b border-gray-600'><Link to="/company">Company</Link></li>
-        <li className='p-4 border-b border-gray-600'><Link to="/resources">Resources</Link></li>
-        <li className='p-4 border-b border-gray-600'><Link to="/about">About</Link></li>
+        <li className='p-4 border-b border-gray-600'><Link to="/company">About</Link></li>
         <li className='p-4'><Link to="/contact">Contact</Link></li>
       </ul>
     </div>

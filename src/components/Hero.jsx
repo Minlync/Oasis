@@ -25,8 +25,8 @@ const Hero = () => {
             loop
           />
         </div>
-        <p className='md:text-2xl text-xl font-bold text-gray-500'>placeholder placeholder placeholder</p>
-        <button className='bg-[#00df9a] hover:bg-[#00b383] w-[200px] rounded-md font-medium my-6 mx-auto py-4 text-black  duration-300 ease-in-out'>Get Started</button>
+        <p className='md:text-2xl text-xl my-8 text-gray-500'>Helps Your Company Thrive: Unlocking Insights</p>
+        <button className='bg-[#00df9a] hover:bg-[#479681] w-[200px] rounded-md font-medium  my-8 mx-auto py-4 text-black  duration-300 ease-in-out'>Get Started</button>
 
       </div>
     </div>
