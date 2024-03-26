@@ -1,3 +1,1 @@
-
-https://github.com/Minlync/Oasis/assets/93282772/a4f0e3a3-0347-4365-96b5-76e3d2c33d26
-
+https://github.com/Minlync/Oasis/assets/93282772/d60a4c52-2ab6-415f-9c00-d4642600ec67
