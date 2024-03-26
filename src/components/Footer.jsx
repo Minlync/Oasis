@@ -12,7 +12,8 @@ const Footer = () => {
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-2  gap-8 text-gray-300'>
       <div>
         <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Oasis</h1>
-        <p className='py-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit ullam iste repellat consequatur libero reiciendis, blanditiis accusantium.</p>
+        <p style={{ fontSize: '12px' }} className='py-6'>This site designed and developed by Evelyn Chen</p>
+        {/* <p> DESIGNED BY EVELYN CHEN</p> */}
         
       </div>
       <div className='flex justify-center gap-10 my-12 md:w-[75%] my-6'>
