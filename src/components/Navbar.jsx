@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
-import { Button } from 'openseadragon';
+//import { Button } from 'openseadragon';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
